@@ -38,10 +38,5 @@ module.exports = function (config) {
       "karma-safari-launcher"
     ],
 
-    junitReporter: {
-      outputFile: "test-results.xml",
-      outputDir: "test-results"
-    }
-
   });
 };
